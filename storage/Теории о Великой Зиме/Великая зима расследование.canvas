@@ -19,7 +19,8 @@
 		{"id":"644f138f0dfc3db6","type":"file","file":"remote-storage/storage/Теории о Великой Зиме/Теории/Древнее зло.md","x":-1360,"y":820,"width":400,"height":200,"color":"2"},
 		{"id":"617ec9b2c64d3644","type":"file","file":"remote-storage/storage/Теории о Великой Зиме/Теории/Божественный гнев-испытание.md","x":-1500,"y":270,"width":400,"height":400,"color":"2"},
 		{"id":"c568854c0277c84e","type":"file","file":"remote-storage/storage/Теории о Великой Зиме/Теории/Загадочный особняк.md","x":-840,"y":1020,"width":400,"height":400,"color":"2"},
-		{"id":"324d1277d62af25d","type":"file","file":"remote-storage/storage/NPC/Эрд/Динленмек/Китап.md","x":-1360,"y":-840,"width":400,"height":160,"color":"4"}
+		{"id":"324d1277d62af25d","type":"file","file":"remote-storage/storage/NPC/Эрд/Динленмек/Китап.md","x":-1360,"y":-840,"width":400,"height":160,"color":"4"},
+		{"id":"128f05ec086fbe8f","x":-285,"y":620,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"7278759fab35d094","fromNode":"e817fb742b288af5","fromSide":"right","toNode":"1e9df300dc27cd88","toSide":"left","color":"4"},
